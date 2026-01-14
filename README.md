@@ -24,7 +24,9 @@ Está pensado como una práctica de:
 ## 🧠 Requisitos
 
 Para ejecutar el proyecto necesitas:
+
 Python 3.7 o superior
+
 Jupyter Notebook (solo si quieres usar el archivo .ipynb)
 
 No se requieren librerías externas adicionales, salvo que se indiquen dentro del código.
@@ -32,8 +34,11 @@ No se requieren librerías externas adicionales, salvo que se indiquen dentro de
 ## ▶️ Cómo ejecutar el juego
 
 Desde la terminal
+
 Para iniciar el juego principal, ejecuta:
+
  - python Scaperoom.py
+
 El juego se ejecutará en la consola siguiendo las instrucciones que aparezcan en pantalla.
 
 ## 📓 Uso del Notebook
