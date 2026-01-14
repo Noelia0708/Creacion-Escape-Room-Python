@@ -37,15 +37,7 @@ El archivo Juego.ipynb contiene el desarrollo del juego en formato Jupyter Noteb
 - Explicaciones del funcionamiento
 - Pruebas de código
 - Ejecución paso a paso
-
-🛠️ Posibles mejoras
-#### Algunas ideas para ampliar el proyecto:
-#### Añadir más niveles o acertijos
-#### Mejorar la narrativa
-#### Crear una interfaz gráfica
-#### Modularizar el código
-#### Añadir un sistema de puntuación
-
+---
 ✨ Autora
 Proyecto creado por Noelia como práctica de programación en Python.
 ¡Gracias por jugar y explorar este Escape Room! 🧩
