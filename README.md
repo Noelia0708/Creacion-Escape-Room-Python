@@ -6,6 +6,7 @@ Este repositorio contiene un proyecto de **Escape Room desarrollado en Python**,
 ## 📂 Estructura del Proyecto
 
 Creacion-Escape-Room-Python/
+
 ├── Scaperoom.py         # Archivo principal con la lógica del juego
 ├── Juego.ipynb          # Notebook de Jupyter con desarrollo y pruebas
 └── Scape Room.pdf       # Documento explicativo del Escape Room
